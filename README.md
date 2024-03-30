@@ -31,7 +31,8 @@ TypeScript is a powerful superset of JavaScript that adds optional static typing
 - test-results -> Contains all the reports related file
 
 ## Sample report
-<img width="1510" alt="image" src="https://github.com/maulikpatel890/playwright-cucumber-typescript/assets/45584539/f282a861-3a16-46bb-a88b-a380f2649301">
+<img width="1511" alt="image" src="https://github.com/maulikpatel890/playwright-cucumber-typescript/assets/45584539/6e75107a-d474-45ec-9c22-e0067ba67f74">
+
 
 
 
