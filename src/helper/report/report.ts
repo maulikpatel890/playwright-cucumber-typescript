@@ -4,7 +4,7 @@ report.generate({
     jsonDir: "test-results",
     reportPath: "test-results/reports/",
     reportName: "Playwright Automation Report",
-    pageTitle: "TradeBid Website test report",
+    pageTitle: "Sauce Demo Website test report",
     displayDuration: false,
     metadata: {
         browser: {
@@ -20,7 +20,7 @@ report.generate({
     customData: {
         title: "Test Info",
         data: [
-            { label: "Project", value: "TradeBid Buyer Website Application" },
+            { label: "Project", value: "Sauce Demo Website Application" },
             { label: "Test Cycle", value: "E2E Test" }
         ],
     },
