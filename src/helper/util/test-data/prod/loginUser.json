@@ -1,0 +1,8 @@
+{
+    "firstName": "Maulik ",
+    "lastName": "P ",
+    "standardUser": "standard_user",
+    "lockedOutUser": "standard_user",
+    "password": "secret_sauce",
+    "invalidPassword": "Pass123$"
+}
