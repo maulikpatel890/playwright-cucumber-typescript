@@ -66,11 +66,4 @@ AfterAll(async function () {
     await browser.close();
 })
 
-function getStorageState(user: string): string | { cookies: { name: string; value: string; domain: string; path: string; expires: number; httpOnly: boolean; secure: boolean; sameSite: "Strict" | "Lax" | "None"; }[]; origins: { origin: string; localStorage: { name: string; value: string; }[]; }[]; } {
-    if (user.endsWith("admin"))
-        return "src/helper/auth/admin.json";
-    else if (user.endsWith("lead"))
-        return "src/helper/auth/lead.json";
-}
-
 
