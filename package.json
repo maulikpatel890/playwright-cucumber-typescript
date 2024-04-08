@@ -1,7 +1,7 @@
 {
   "name": "tb-e2e-playwright-cucumber",
   "version": "1.0.0",
-  "description": "TradeBid E2E Tests - Playwright Cucumber TS framework",
+  "description": "E2E Tests - Playwright Cucumber TS framework",
   "main": "index.js",
   "scripts": {
     "debug": "cross-env ENV=prod PWDEBUG=1 DEBUG=pw:api cucumber-js --config=config/cucumber.js",
